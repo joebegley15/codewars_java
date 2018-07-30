@@ -1,0 +1,1 @@
+https://www.codewars.com/kata/convert-a-boolean-to-a-string/train/java
